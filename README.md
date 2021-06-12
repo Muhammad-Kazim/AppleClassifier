@@ -12,7 +12,7 @@ Binary classifier with class Apple and Not-Apple usiing pre-trained Densenet-121
 
 The dataset use is a subset of data available here: https://www.kaggle.com/moltean/fruits.
 
-## How to ise this
+## How to use this
 
 ### Requirements
 * Pytorch 1.8.1 cuda 11.1

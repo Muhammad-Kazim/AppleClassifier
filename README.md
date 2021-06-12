@@ -26,7 +26,9 @@ The dataset use is a subset of data available here: https://www.kaggle.com/molte
 The images to be predicted are to be added in the Apple_Notapple_data/Test
 
 The model is saved as AppleClassifier.pth
+
 The model is trained with weights given as apple_classifier.pt
 
 Classifier.ipynb contained model creation, taining and validation.
+
 After adding images to Apple_Notapple_data/Test, run Test.ipynb. 20 images already added in Apple_Notapple_data/Test.

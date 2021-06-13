@@ -2,6 +2,8 @@
 
 Binary classifier with class Apple and Not-Apple usiing pre-trained Densenet-121.
 
+Accuracy of 99.5% achieved.
+
 ## Dataset Properties
 
 * Total Number of images: 13,882 with one fruit per image.

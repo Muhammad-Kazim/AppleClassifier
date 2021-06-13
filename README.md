@@ -35,4 +35,4 @@ Classifier.ipynb contains model creation, taining and validation.
 
 After adding images in Apple_Notapple_data/Test, run Test.ipynb.
 
-Note: 20 images already added in Apple_Notapple_data/Test.
+Note: 20 images already in Apple_Notapple_data/Test.

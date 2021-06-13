@@ -14,7 +14,7 @@ The dataset used is a subset of data available here: https://www.kaggle.com/molt
 
 ## How to use this
 
-### Requirements
+### Setup Requirements
 * Pytorch 1.8.1 cuda 11.1
 * Python 3.9.2 Windows 10
 * Numpy

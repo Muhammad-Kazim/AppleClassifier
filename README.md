@@ -31,4 +31,4 @@ The model is trained with weights given as apple_classifier.pt
 
 Classifier.ipynb contained model creation, taining and validation.
 
-After adding images to Apple_Notapple_data/Test, run Test.ipynb. 20 images already added in Apple_Notapple_data/Test.
+After adding images in Apple_Notapple_data/Test, run Test.ipynb. 20 images already added in Apple_Notapple_data/Test.

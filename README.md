@@ -8,7 +8,7 @@ Binary classifier with class Apple and Not-Apple usiing pre-trained Densenet-121
 * Training set size: 11,026 (3,372 Apples and 7,654 Not-Apples)
 * Validation set size: 2,856 (1,100 Apples and 1,756 Not-Apples)
 * Classes: Apple and Not-Apple
-* Not-Apple includes apricot, avacado chestnut, eggplant, banana, blueberry, peach, orange, guava, lychee, and lemon.
+* Not-Apple includes apricot, avacado, chestnut, eggplant, banana, blueberry, peach, orange, guava, lychee, and lemon.
 
 The dataset used is a subset of data available here: https://www.kaggle.com/moltean/fruits.
 
